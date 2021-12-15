@@ -1,0 +1,7 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Visual Studio files
+UsersSNiP3RDesktopGitbranchOne_Folder/
+UsersSNiP3RDesktopGitbranchTwo_Folder/
