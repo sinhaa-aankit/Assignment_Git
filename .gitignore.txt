@@ -1,3 +1,3 @@
 
-UsersSNiP3RDesktopGitbranchOne_Folder/
-UsersSNiP3RDesktopGitbranchTwo_Folder/
+C:\Users\SNiP3R\Desktop\Git\Assignment\UsersSNiP3RDesktopGitbranchOne_Folder\
+UsersSNiP3RDesktopGitbranchTwo_Folder\
